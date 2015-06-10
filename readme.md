@@ -1,37 +1,44 @@
-# Simply Grey
-Simply Grey is a nice, easy on the eyes Jekyll theme that makes great use of grey colours. 
+Solar Theme for Jekyll
+======================
 
-![Screenshot of Simply Grey](http://i.imgur.com/sKpj8Oz.png)
+A stylish theme for [Jekyll](http://jekyllrb.com/) blogs, based on the [Solarized](http://ethanschoonover.com/solarized) color palette.
 
-## Installation
-There are a few requirements to using and installing the Simply Grey theme.
+![Screenshot](http://i.imgur.com/UnnRhkt.png)
 
-1. You must have Jekyll installed. If you have no done this, do it by executing the following code. 
-`gem install jekyll`
 
-2. You must have git installed. If you do not have this, install it on your system by using your package manager. For example, in Debian, type 
-`sudo apt-get install git`
+Features
+-------
 
-Once you have done this, installation is pretty easy.
+* **Two color schemes** — One for Solarized Dark and one for Solarized Light. Just swap the reference to the `colors-dark.css` file with `colors-light.css` if you don't like light-on-dark.
+* **Linkblog support** — Solar will turn your post title into an external link if you add `external-url: http://example.org` to a post's YAML front matter.
+* **Responsive Design** — Solarized adapts to fit any screen size.
 
-Simply clone the repository
 
-`git clone https://github.com/mondss/simplygrey-jekyll.git`
+Installation
+--------------
 
-and serve the blog up so people can see it
+There are two ways to use Solar. You can either clone-and-go, copying the repository and tweaking the contents to taste, or you can cherry-pick the files you want and integrate them into an existing Jekyll instance. 
 
-`cd simplygrey-jekyll; jekyll serve`
+If you're starting a new blog, you want to clone-and-go. Just `git clone https://github.com/redwallhp/solar-theme-jekyll.git`, make any changes you want to the template, pages or `_config.yml` and start blogging with Jekyll. Easy.
 
-## Configuring SimplyGrey
-The SimplyGrey theme is actually very easy to configure.
+If you're wanting to replace the theme of an existing Jekyll blog, either option should work. If you want to replace files individually, the files and directories you want to make sure to copy are:
 
-### Adding more links to the navigation bar
-1. Open the _config.yml file
-2. Add some more values to the urls hash like the others that already exist there.
+1. `_layouts`
+2. `archives`
+3. `assets`
+4. `feed.xml`
+5. `index.xml`
 
-### Changing the site name
-1. Open the _config.yml file
-2. Change the site name
+You'll also want to compare Solar's `_config.yml` with your own, making any appropriate changes.
 
-### Changing the logo/picture image
-1. Drop a 75x75 image into the img directory.
+
+Demo
+-------
+
+You can see a demo of Solar [right here on GitHub Pages.](http://mattvh.github.io/solar-theme-jekyll/)
+
+
+License
+---------
+
+GPLv2 or higher

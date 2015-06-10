@@ -1,10 +1,9 @@
-name: Simply Grey
-markdown: redcarpet
+name: Solar Theme
+url: http://example.org
+description: A stylish blog using the Solarized color palette
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
 pygments: true
-github: https://www.github.com/exaem
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
-urls:
-    - text: github
-      url: https://github.com/exaem
-    - text: email
-      url: mailto:exaem@exaem.co.uk
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
