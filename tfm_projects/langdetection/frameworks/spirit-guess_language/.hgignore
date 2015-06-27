@@ -1,0 +1,12 @@
+syntax: glob
+.*
+build/*
+dist/*
+MANIFEST
+*.cmd
+*.egg-info/*
+*.pyc
+*.pyo
+*$py.class
+
+Blocks.txt
