@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Solar Theme</title>
-		<description>A stylish blog using the Solarized color palette</description>
+		<title>Ruben's Master Thesis</title>
+		<description>A comparative study of computational intelligence software for enhancing the capabilities of business document management systems</description>
 		<link>http://example.org</link>
 		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
 		

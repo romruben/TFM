@@ -1,7 +1,7 @@
-name: Solar Theme
+name: Ruben's Master Thesis
 url: http://example.org
-description: A stylish blog using the Solarized color palette
 baseurl: "/TFM"
+description: A comparative study of computational intelligence software for enhancing the capabilities of business document management systems
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
