@@ -20,6 +20,7 @@ LANGUAGES_T0_TEST = "English,Spanish";
 ```
 
 ## Build
+
 ```
 mvn clean install -DskipTests
 ```
@@ -28,22 +29,24 @@ mvn clean install -DskipTests
 
 ## Execute tests
 
-*Both profiles*
+**Both profiles**
 ```
 mvn test
 ```
 
-*Only with Standard Profile*
+**Only with Standard Profile**
+
 ```
 mvn test -Dtest=TestWithDefaultProfiles
 ```
 
-*Only with SM Profiles*
+**Only with SM Profiles**
+
 ```
 mvn test -Dtest=TestWithSMProfiles
 ```
 
-### Execute Parametrization
+### Parameterization
 
 All these params are optional.
 
