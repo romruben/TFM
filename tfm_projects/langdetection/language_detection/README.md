@@ -46,7 +46,7 @@ mvn test -Dtest=TestWithDefaultProfiles
 mvn test -Dtest=TestWithSMProfiles
 ```
 
-### Execute Parametrization
+### Parameterization
 
 All these params are optional.
 
