@@ -12,7 +12,7 @@ public class PropertiesManager {
     private static String PROFILE_DIR = "/var/tmp/tfm/language_detection/frameworks/languagedetection/profiles/";
     private static String PROFILE_SM_DIR = "/var/tmp/tfm/language_detection/frameworks/languagedetection/profiles.sm/";
     private static String TEST_FILES_DIR = "/var/tmp/tfm/language_detection/frameworks/languagedetection/testfiles/";
-    private static String LANGUAGES_T0_TEST = "English,Spanish";
+    private static String LANGUAGES_TO_TEST = "English,Spanish";
     private static String FILES_BY_LANGUAGE = "src/test/resources/filesByLanguage.properties";
 
     private static Properties filesByLanguagePropertiesProvider;
@@ -56,8 +56,8 @@ public class PropertiesManager {
     }
 
     public List<String> getSupportedLanguages() {
-        LANGUAGES_T0_TEST = mergeDefaultPropsWithMvnArgs(LANGUAGES_T0_TEST, System.getProperty("supported.languages"));
-        return (new ArrayList(Arrays.asList(LANGUAGES_T0_TEST.split(","))));
+        LANGUAGES_TO_TEST = mergeDefaultPropsWithMvnArgs(LANGUAGES_TO_TEST, System.getProperty("supported.languages"));
+        return (new ArrayList(Arrays.asList(LANGUAGES_TO_TEST.split(","))));
     }
     public Map<String, String> getFilesByLanguage(List<String> filter) {
         Map<String, String> filesSupported = toHashMap(filesByLanguagePropertiesProvider);
