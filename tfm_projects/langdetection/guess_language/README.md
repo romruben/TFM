@@ -1,24 +1,5 @@
 # Guess Language framework
 
-## Installation
-
-Dependencies, install before (if installing for Python 2):
-
-*3to2*
-```
-sudo pip install 3to2
-```
-
-
-```
-cd /tmp/
-hg clone ssh://hg@bitbucket.org/spirit/guess_language or https://bitbucket.org/spirit/guess_language/get/0a8285e2752a.zip
-cd guess_language/
-python setup.py install
-cd ../
-rm -rf guess_language/
-```
-
 ## Execution
 
 The default properties are:
