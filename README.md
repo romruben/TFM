@@ -16,8 +16,8 @@
 
 ## Research lines
 
-* **Language Detection**
-* **Tokenizers**
-* **POS Taggers**
-* **Weight Terms**
-* **Content Search**
+* Language Detection
+* Tokenizers
+* POS Taggers
+* Weight Terms
+* Content Search
