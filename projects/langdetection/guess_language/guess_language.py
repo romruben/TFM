@@ -11,7 +11,7 @@ FILES_BY_LANGUAGE = "resources/filesByLanguage.properties"
 LANGUAGES_IDS = "resources/profiles.properties"
 
 
-def test_langid(testdir, languages, filesbylang):
+def test_guess_language(testdir, languages, filesbylang):
     merge_default_with_args(testdir, languages, filesbylang)
 
     # Reference vars
@@ -67,5 +67,5 @@ parser.add_argument('-f', '--filesByLang', help='filesByLang', required=False)
 args = parser.parse_args()
 
 start_time = time.time()
-test_langid(args.testdir, args.languages, args.filesByLang)
+test_guess_language(args.testdir, args.languages, args.filesByLang)
 print("Time spent: %.2f seconds" % (time.time() - start_time))
