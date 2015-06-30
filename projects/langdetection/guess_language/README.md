@@ -4,10 +4,10 @@
 
 The default properties are:
 
-* TEST_FILES_DIR = "/var/tmp/tfm/language_detection/frameworks/languagedetection/testfiles/" (files to test)
-* LANGUAGES_TO_TEST = "English,Spanish" (languates to test)
-* FILES_BY_LANGUAGE = "filesByLanguage.properties" (the language of each test file)
-* LANGUAGES_IDS     = "profiles.properties" (identifier of each language e.g. sp = 'Spanish')
+* **TEST_FILES_DIR**         = "/var/tmp/tfm/language_detection/frameworks/languagedetection/testfiles/" (_files to test_)
+* **LANGUAGES_TO_TEST**      = "English,Spanish" (_languates to test_)
+* **FILES_BY_LANGUAGE**      = "resources/filesByLanguage.properties" (_the language of each test file_)
+* **LANGUAGES_IDS**          = "resources/profiles.properties" (_identifier of each language e.g. sp = 'Spanish'_)
 
 
 The basic execution with these properties is:
