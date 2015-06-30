@@ -37,13 +37,13 @@ mvn test
 **Only with Standard Profile**
 
 ```
-mvn test -Dtest=TestWithDefaultProfiles
+mvn test -Dtest=test.TestWithDefaultProfiles
 ```
 
 **Only with SM Profiles**
 
 ```
-mvn test -Dtest=TestWithSMProfiles
+mvn test -Dtest=test.TestWithSMProfiles
 ```
 
 ### Parameterization

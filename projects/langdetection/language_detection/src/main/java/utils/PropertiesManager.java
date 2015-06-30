@@ -1,3 +1,5 @@
+package utils;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.*;
@@ -13,7 +15,7 @@ public class PropertiesManager {
     private static String PROFILE_SM_DIR = "/var/tmp/tfm/language_detection/frameworks/languagedetection/profiles.sm/";
     private static String TEST_FILES_DIR = "/var/tmp/tfm/language_detection/frameworks/languagedetection/testfiles/";
     private static String LANGUAGES_TO_TEST = "English,Spanish";
-    private static String FILES_BY_LANGUAGE = "src/test/resources/filesByLanguage.properties";
+    private static final String FILES_BY_LANGUAGE = "src/test/resources/filesByLanguage.properties";
 
     private static Properties filesByLanguagePropertiesProvider;
 
@@ -55,10 +57,11 @@ public class PropertiesManager {
         return TEST_FILES_DIR;
     }
 
-    public List<String> getSupportedLanguages() {
+    List<String> getSupportedLanguages() {
         LANGUAGES_TO_TEST = mergeDefaultPropsWithMvnArgs(LANGUAGES_TO_TEST, System.getProperty("supported.languages"));
         return (new ArrayList(Arrays.asList(LANGUAGES_TO_TEST.split(","))));
     }
+
     public Map<String, String> getFilesByLanguage(List<String> filter) {
         Map<String, String> filesSupported = toHashMap(filesByLanguagePropertiesProvider);
         filesSupported.values().removeIf(s -> !filter.contains(s));
@@ -67,7 +70,11 @@ public class PropertiesManager {
 
     public Map<String, String> toHashMap(Properties prop) {
         Map<String, String> map = new HashMap<>();
-        prop.stringPropertyNames().forEach(name -> map.put(TEST_FILES_DIR+name, prop.getProperty(name)));
+        prop.stringPropertyNames().forEach(name -> map.put(TEST_FILES_DIR + name, prop.getProperty(name)));
         return map;
+    }
+
+    public Map<String, String> getFilesToTets() {
+        return getFilesByLanguage(getSupportedLanguages());
     }
 }

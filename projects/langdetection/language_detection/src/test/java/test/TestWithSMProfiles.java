@@ -1,7 +1,11 @@
+package test;
+
+import languagedetection.LanguageDetection;
+import logic.LanguageDetectionLogic;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import utils.FileHandler;
+import utils.PropertiesManager;
 
 import java.time.Duration;
 import java.time.Instant;
@@ -13,30 +17,23 @@ import static org.junit.Assert.assertEquals;
 /**
  * Created by ruben on 28/06/15.
  */
-public class TestWithDefaultProfiles {
+public class TestWithSMProfiles {
 
-    LanguageDetection languageDetection;
-
-    Map<String, String> filesToTest;
-
-    Instant startTestTime;
+    private LanguageDetection languageDetection;
+    private Map<String, String> filesToTest;
+    private Instant startTestTime;
 
     @Before
     public void onStartUp() {
         startTestTime = Instant.now();
         languageDetection = new LanguageDetection();
-        languageDetection.init(PropertiesManager.getInstance().getProfileDir());
+        languageDetection.init(PropertiesManager.getInstance().getProfileSmDir());
         filesToTest = PropertiesManager.getInstance().getFilesByLanguage(Arrays.asList("English", "Spanish"));
     }
 
     @Test
-    public void detectLanguagesWithStandardProfiles() {
-        int detected = 0;
-        for (String file : filesToTest.keySet()) {
-            String langid = languageDetection.detect(FileHandler.readFileContent(file));
-            String langName = LanguageProfiles.getInstance().getLanguage(langid);
-            if (langName.equalsIgnoreCase(filesToTest.get(file))) detected++;
-        }
+    public void detectLanguagesWithSMProfiles() {
+        int detected = LanguageDetectionLogic.compareFilesWithLanguageDetected(filesToTest, languageDetection);
         assertEquals(filesToTest.size(), detected);
     }
 
