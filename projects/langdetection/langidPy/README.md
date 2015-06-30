@@ -1,4 +1,4 @@
-# LangId.py frameworks
+# LangId.py framework
 
 ## Installation
 
@@ -23,11 +23,12 @@ pip install langid
 
 The default properties are:
 
-* TEST_FILES_DIR = "/var/tmp/tfm/language_detection/frameworks/languagedetection/testfiles/" (files to test)
-* LANGUAGES_TO_TEST = "English,Spanish" (languates to test)
-* FILES_BY_LANGUAGE = "filesByLanguage.properties" (the language of each test file)
-* LANGUAGES_IDS     = "profiles.properties" (identifier of each language e.g. sp = 'Spanish')
-
+```
+TEST_FILES_DIR    = "/var/tmp/tfm/language_detection/frameworks/languagedetection/testfiles/" (files to test)
+LANGUAGES_TO_TEST = "English,Spanish" (languates to test)
+FILES_BY_LANGUAGE = "filesByLanguage.properties" (the language of each test file)
+LANGUAGES_IDS     = "profiles.properties" (identifier of each language e.g. sp = 'Spanish')
+```
 
 The basic execution with these properties is:
 
