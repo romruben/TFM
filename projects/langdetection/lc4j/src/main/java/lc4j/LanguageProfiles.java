@@ -1,3 +1,5 @@
+package lc4j;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
@@ -21,7 +23,7 @@ public class LanguageProfiles {
     }
 
     private void loadProfilePropertiesFile() {
-        InputStream inputStream = this.getClass().getResourceAsStream("profiles.properties");
+        InputStream inputStream = ClassLoader.getSystemResourceAsStream("profiles.properties");
         try {
             properties.load(inputStream);
         } catch (IOException e) {

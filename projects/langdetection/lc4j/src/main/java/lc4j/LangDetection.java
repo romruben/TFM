@@ -1,19 +1,20 @@
-/**
+package lc4j; /**
  * Created by ruben on 28/06/15.
  */
 
 
 import net.olivo.lc4j.LanguageCategorization;
+import utils.PropertiesManager;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.StringReader;
 
-public class LangDectection {
+public class LangDetection {
 
-    LanguageCategorization languageCategorization;
+    private LanguageCategorization languageCategorization;
 
-    public LangDectection() {
+    public LangDetection() {
         try {
             languageCategorization = new LanguageCategorization();
             languageCategorization.loadLanguages(PropertiesManager.getInstance().getProfileDir());
@@ -28,7 +29,7 @@ public class LangDectection {
     }
 
 //    public static void main(String[] args) {
-//        LangDectection langDectection = new LangDectection();
+//        lc4j.LangDectection langDectection = new lc4j.LangDectection();
 //        langDectection.detect("hola como estas");
 //    }
 }

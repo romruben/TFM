@@ -1,3 +1,5 @@
+package utils;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.*;
@@ -63,5 +65,9 @@ public class PropertiesManager {
         Map<String, String> map = new HashMap<>();
         prop.stringPropertyNames().forEach(name -> map.put(TEST_FILES_DIR+name, prop.getProperty(name)));
         return map;
+    }
+
+    public Map<String, String> getFilesToTets() {
+        return getFilesByLanguage(getSupportedLanguages());
     }
 }

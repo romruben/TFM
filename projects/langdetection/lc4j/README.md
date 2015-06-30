@@ -27,7 +27,7 @@ mvn clean install -DskipTests
 ## Execute tests
 
 ```
-mvn test -Dtest=TestWithDefaultProfiles
+mvn test -Dtest=test.TestWithDefaultProfiles
 ```
 
 ### Parameterization
