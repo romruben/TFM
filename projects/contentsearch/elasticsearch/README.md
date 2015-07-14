@@ -31,4 +31,4 @@ solr create -c <COLLECTION_NAME>
  sudo /var/tmp/elasticsearch-1.6.0/bin/plugin -install OlegKunitsyn/elasticsearch-browser
 ```
  
-* http://localhost:9200/_plugin/browser/?database=test&table=attachment
+* *URL*: [http://localhost:9200/_plugin/browser/?database=test&table=attachment](http://localhost:9200/_plugin/browser/?database=test&table=attachment)
