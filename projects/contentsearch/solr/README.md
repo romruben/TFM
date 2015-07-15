@@ -24,3 +24,15 @@ cd solr-5.2.1/
 ```
 /var/tmp/solr-5.2.1/bin/post -c <COLLECTION_NAME> <TEST_FILES_PATH>
 ```
+
+## Search a content
+
+```
+http://localhost:8983/solr/<COLLECTION>/query?q=<QUERY>&fl=<FILTER BY FIELD>
+```
+
+Example:
+
+```
+http://localhost:8983/solr/tfm/query?q=motorola&fl=id
+````
