@@ -32,3 +32,16 @@ solr create -c <COLLECTION_NAME>
 ```
  
 * *URL*: [http://localhost:9200/_plugin/browser/?database=test&table=attachment](http://localhost:9200/_plugin/browser/?database=test&table=attachment)
+
+## Uri Search
+
+Example:
+
+```
+http://<ENDPOINT>/<INDEX>/_search?q=<FIELD>:<CONTENT>&...&fields=<FILTER BY FIELDS>
+
+http://localhost:9200/test/_search?q=file:motorola&fields=_id
+```
+
+
+[https://www.elastic.co/guide/en/elasticsearch/reference/1.6/search-uri-request.html](https://www.elastic.co/guide/en/elasticsearch/reference/1.6/search-uri-request.html)
