@@ -49,12 +49,6 @@ The archetype structure closely follows the bundle’s structure :
 
 Simply launch the Engine class in your IDE. Simulation reports will be written in the target directory.
 
-
-## Acknowledgements
-
-* http://gatling.io/docs/2.0.3/extensions/maven_archetype.html
-* http://www.alexecollins.com/gatling-in-10-minutes/
-
 ## Execution
 
 to run the simulations it must be executed the "Engine" file in your IDE.
@@ -62,3 +56,9 @@ to run the simulations it must be executed the "Engine" file in your IDE.
 ## Reports
 
 The test reports are in target/results/ folder.
+
+
+## Acknowledgements
+
+* http://gatling.io/docs/2.0.3/extensions/maven_archetype.html
+* http://www.alexecollins.com/gatling-in-10-minutes/
