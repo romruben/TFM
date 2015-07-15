@@ -2,6 +2,8 @@
 
 ## Install Scala
 
+**http://www.scala-lang.org/**
+
 ## Maven Archetype
 
 ### Prerequisites
