@@ -65,7 +65,7 @@ def postFileToTheIndex():
 
 def createEncodedTempFile(fname):
 
-    file64 = open(fname, "rb").read().encode("base64")
+    file64 = open(fname, "rb").read()#.encode("base64")
 
     print 'writing JSON with base64 encoded file to temp file {}'.format(TMP_FILE_NAME)
 
