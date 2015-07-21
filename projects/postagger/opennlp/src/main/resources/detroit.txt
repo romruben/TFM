@@ -10,7 +10,7 @@ Cheap_JJ real_JJ estate_NN ,_, that_DT 's_VBZ what_WP ._.
 
 I_PRP 'd_MD read_VBD a_DT New_NNP York_NNP Times_NNP article_NN about_IN some_DT forward_RB -_: thinking_VBG artist_NN -_: types_NNS who_WP bought_VBD a_DT house_NN in_IN Detroit_NNP for_IN $1,900_NN ._. 
 $1,900_NN !_. 
-Some_DT of_IN us_PRP (_( and_CC lots_NNS of_IN New_NNP Yorkers_NNPS )_) pay_VBP that_IN much_JJ in_IN rent_NN every_DT month_NN !_. 
+Some_DT of_IN us_PRP (_-LRB- and_CC lots_NNS of_IN New_NNP Yorkers_NNPS )_-RRB- pay_VBP that_IN much_JJ in_IN rent_NN every_DT month_NN !_. 
 
 In_IN fact_NN ,_, the_DT article_NN went_VBD on_RP ,_, soon_RB a_DT nearby_JJ house_NN went_VBD on_IN the_DT market_NN for_IN $100_NN ._. 
 The_DT artist_NN types_NNS notified_VBD their_PRP$ buddies_NNS ,_, who_WP moved_VBD in_IN post_JJ haste_NN ._. 
@@ -59,11 +59,11 @@ Sometimes_RB we_PRP stopped_VBD to_TO take_VB a_DT photo_NN ,_, but_CC mostly_RB
 Earp_NNP and_CC I_PRP have_VBP each_DT lived_VBN happily_RB in_IN the_DT wilds_NNS of_IN West_NNP Oakland_NNP ,_, but_CC the_DT danger_NN I_PRP felt_VBD in_IN Detroit_NNP was_VBD like_IN nothing_NN I_PRP 'd_MD experienced_VBN before_RB ._. 
 I_PRP was_VBD actually_RB afraid_JJ for_IN my_PRP$ life_NN ._. 
 
-The_DT New_NNP York_NNP Times_NNP correspondent_NN wrote_VBD that_IN his_PRP$ friend_NN Mitch_NNP 's_POS $1,900_NN home_NN "_'' had_VBD already_RB been_VBN stripped_VBN of_IN its_PRP$ appliances_NNS and_CC wiring_NN ..._. 
+The_DT New_NNP York_NNP Times_NNP correspondent_NN wrote_VBD that_IN his_PRP$ friend_NN Mitch_NNP 's_POS $1,900_NN home_NN "_`` had_VBD already_RB been_VBN stripped_VBN of_IN its_PRP$ appliances_NNS and_CC wiring_NN ..._. 
 But_CC for_IN Mitch_NNP that_IN only_RB added_VBD to_IN its_PRP$ appeal_NN ,_, because_IN he_PRP now_RB had_VBD the_DT opportunity_NN to_TO renovate_VB it_PRP with_IN solar_JJ heating_NN ,_, solar_JJ electricity_NN and_CC low-cost_JJ ,_, high-efficiency_JJ appliances_NNS ._. 
-"_'' 
+"_`` 
 As_IN for_IN the_DT $100_NN house_NN ?_. 
-It_PRP "_'' needed_VBD some_DT work_NN ,_, a_DT hole_NN patched_VBN ,_, some_DT windows_NNS replaced_VBN ._. "_'' 
+It_PRP "_`` needed_VBD some_DT work_NN ,_, a_DT hole_NN patched_VBN ,_, some_DT windows_NNS replaced_VBN ._. "_`` 
 
 Well_UH ,_, I_PRP do_VBP n't_RB know_VB what_WP part_NN of_IN Detroit_NNP these_DT folks_NNS live_VBP in_IN ,_, but_CC the_DT $100_NN houses_NNS I_PRP saw_VBD looked_VBN more_RBR like_IN this_DT :_: 
 
@@ -97,13 +97,13 @@ And_CC you_PRP will_MD get_VB what_WP you_PRP pay_VBP for_IN ._.
 Cheers_NNS to_IN Toby_NNP Barlow_NNP ,_, who_WP inspired_VBD my_PRP$ trek_NN to_IN Detroit_NNP ,_, and_CC who_WP believes_VBZ in_IN a_DT happier_JJR ,_, greener_JJR future_NN ._. 
 May_MD your_PRP$ every_DT dream_NN come_VB true_JJ ,_, sir_NN ,_, and_CC your_PRP$ book_NN sell_VB fabulously_RB ._. 
 
-16_CD Responses_NNS to_IN "_'' Detroit_NNP and_CC the_DT Myth_NN of_IN the_DT $100_NN House_NN "_'' bisnis_NNS 16_CD ._. Sep_NNP ,_, 2009_CD at_IN 9:46_NN pm_NN 
+16_CD Responses_NNS to_IN "_`` Detroit_NNP and_CC the_DT Myth_NN of_IN the_DT $100_NN House_NN "_`` bisnis_NNS 16_CD ._. Sep_NNP ,_, 2009_CD at_IN 9:46_NN pm_NN 
 Great_JJ post_NN ._. 
 Thank_VB you_PRP for_IN this_DT info_NN ._. 
 I_PRP need_VBP that_DT 
 
 Myself_NNP 19_CD ._. Sep_NNP ,_, 2009_CD at_IN 10:06_NN am_VBP 
-Please_RB track_VB down_RP and_CC watch_VBP a_DT movie_NN called_VBN "_'' Detroit_NNP :_: A_DT City_NNP to_TO Yourself_NNP "_'' ,_, by_IN Nicole_NNP MacDonald_NNP ._. 
+Please_RB track_VB down_RP and_CC watch_VBP a_DT movie_NN called_VBN "_`` Detroit_NNP :_: A_DT City_NNP to_TO Yourself_NNP "_`` ,_, by_IN Nicole_NNP MacDonald_NNP ._. 
 It_PRP 's_VBZ full_JJ of_IN this_DT imagery_NN ,_, and_CC talks_VBZ about_IN the_DT 1805_CD fire_NN and_CC rebuilding_VBG ,_, and_CC the_DT post_JJ -_: industrial_JJ devastation_NN that_WDT 's_VBZ ravaged_VBN the_DT city_NN since_IN ._. 
 
 Most_JJS poignantly_RB ,_, it_PRP talks_VBZ about_IN Hurricane_NNP Katrina_NNP ,_, which_WDT focused_VBD attention_NN on_IN rebuilding_VBG another_DT city_NN with_IN this_DT level_NN of_IN devastation_NN ,_, and_CC how_WRB without_IN a_DT single_JJ catastrophic_JJ event_NN to_TO blame_VB for_IN it_PRP ,_, Detroit_NNP 's_POS decay_NN has_VBZ gone_VBN unsympathetically_RB ignored_VBN ._. 
@@ -116,9 +116,9 @@ HOWEVER_NNP ..._.
 
 There_EX 's_VBZ a_DT lot_NN more_JJR to_IN Detroit_NNP than_IN that_DT ._. 
 There_EX are_VBP industrial_JJ spaces_NNS being_VBG turned_VBN into_IN low-rent_JJ artist_NN lofts_NNS and_CC business_NN incubators_NNS ._. 
-(_( Look_VBP at_IN the_DT Russell_NNP Industrial_NNP Complex_JJ ,_, for_IN one_CD example_NN ._. )_) 
+(_-LRB- Look_VBP at_IN the_DT Russell_NNP Industrial_NNP Complex_JJ ,_, for_IN one_CD example_NN ._. )_-RRB- 
 There_EX are_VBP neighborhoods_NNS that_WDT refuse_VBP to_TO cave_VB ._. 
-(_( west_JJ of_IN Livernois_NNP around_IN McNichols_NNP )_) ._. 
+(_-LRB- west_JJ of_IN Livernois_NNP around_IN McNichols_NNP )_-RRB- ._. 
 There_EX 's_VBZ a_DT whole_JJ bunch_NN of_IN nice_JJ stuff_NN happening_VBG along_RB the_DT riverfront_NN ,_, from_IN downtown_NN up_RB towards_IN Stroh_NNP Place_NNP ._. 
 
 And_CC there_EX 's_VBZ always_RB Belle_NNP Isle_NNP ._. 
@@ -137,7 +137,7 @@ Think_VBP about_IN that_DT for_IN a_DT moment_NN ,_, hoes_NNS and_CC shovels_NNS
 Whoever_WP took_VBD that_DT stuff_NN is_VBZ probably_RB using_VBG it_PRP in_IN their_PRP$ own_JJ garden_NN ._. 
 
 Yes_UH ,_, Detroit_NNP 's_VBZ got_VB more_JJR than_IN its_PRP$ share_NN of_IN bad_JJ spots_NNS ,_, you_PRP 're_VBP right_JJ ._. 
-I_PRP 've_VBP lived_VBN in_IN the_DT metro_NN area_NN my_PRP$ whole_JJ life_NN ,_, and_CC there_EX are_VBP areas_NNS (_( I_NN ca_MD n't_RB call_VB them_PRP neighborhoods_NNS )_) down_RB there_EX where_WRB I_PRP do_VBP n't_RB feel_VB safe_JJ in_IN daytime_JJ ,_, much_RB less_JJR at_IN night_NN ._. 
+I_PRP 've_VBP lived_VBN in_IN the_DT metro_NN area_NN my_PRP$ whole_JJ life_NN ,_, and_CC there_EX are_VBP areas_NNS (_-LRB- I_NN ca_MD n't_RB call_VB them_PRP neighborhoods_NNS )_-RRB- down_RB there_EX where_WRB I_PRP do_VBP n't_RB feel_VB safe_JJ in_IN daytime_JJ ,_, much_RB less_JJR at_IN night_NN ._. 
 But_CC there_EX are_VBP bright_JJ spots_NNS ,_, and_CC behind_IN every_DT one_CD of_IN them_PRP is_VBZ a_DT person_NN ,_, or_CC a_DT bunch_NN of_IN people_NNS ,_, who_WP refuse_VBP to_TO give_VB up_RP ._. 
 
 Jessica_NNP 19_CD ._. Sep_NNP ,_, 2009_CD at_IN 10:30_NN am_VBP 
@@ -145,7 +145,7 @@ Myself_PRP --_: Thanks_NNS for_IN the_DT comment_NN and_CC the_DT great_JJ infor
 You_PRP are_VBP exactly_RB the_DT kind_NN of_IN person_NN who_WP gives_VBZ me_PRP back_RP the_DT hope_NN I_PRP lost_VBD on_IN my_PRP$ way_NN into_IN town_NN ._. 
 Seems_VBZ there_EX 's_VBZ a_DT pretty_RB solid_JJ group_NN of_IN Detroit_NNP residents_NNS who_WP are_VBP truly_RB committed_JJ to_TO restoring_VBG the_DT city_NN ,_, and_CC that_DT 's_VBZ beautiful_JJ to_TO see_VB ._. 
 
-Love_VBP the_DT fact_NN that_IN people_NNS are_VBP stealing_VBG garden_NN implements_VBZ (_( though_IN it_PRP 's_VBZ still_RB sad_JJ that_IN they_PRP need_VBP to_TO )_) ._. 
+Love_VBP the_DT fact_NN that_IN people_NNS are_VBP stealing_VBG garden_NN implements_VBZ (_-LRB- though_IN it_PRP 's_VBZ still_RB sad_JJ that_IN they_PRP need_VBP to_TO )_-RRB- ._. 
 
 I_PRP will_MD absolutely_RB watch_VB A_DT City_NNP To_IN Yourself_NNP ,_, thank_VB you_PRP for_IN the_DT recommendation_NN ._. 
 And_CC when_WRB I_PRP 'm_VBP in_IN the_DT area_NN again_RB ,_, I_PRP 'll_MD go_VB out_IN to_IN Belle_NNP Isle_NNP and_CC think_VBP long_RB &_CC hard_RB about_IN the_DT future_NN of_IN American_JJ cities_NNS --_: as_IN I_PRP 'm_VBP sure_JJ you_PRP do_VBP occasionally_RB too_RB ._. 
@@ -154,14 +154,14 @@ Reader_NN Not_RB Writer_NN 20_CD ._. Sep_NNP ,_, 2009_CD at_IN 10:17_NN pm_NN
 Well_UH ,_, growing_VBG up_RP not_RB far_RB from_IN Detroit_NNP myself_PRP ,_, I_PRP would_MD point_VB out_RP a_DT few_JJ things_NNS :_: 
 
 1_CD ._. Driving_VBG a_DT Honda_NNP in_IN Detroit_NNP right_RB now_RB probably_RB is_VBZ n't_RB really_RB going_VBG to_TO get_VB you_PRP welcomed_VBN with_IN open_JJ arms_NNS ._. 
-See_VBP ,_, there_EX 's_VBZ a_DT wee_JJ bit_NN of_IN loyalty_NN to_IN the_DT Big_NNP 3_CD and_CC driving_VBG a_DT foreign_JJ car_NN does_VBZ n't_RB really_RB scream_VB "_'' solidarity_NN "_'' to_IN those_DT struggling_VBG to_TO survive_VB ._. 
+See_VBP ,_, there_EX 's_VBZ a_DT wee_JJ bit_NN of_IN loyalty_NN to_IN the_DT Big_NNP 3_CD and_CC driving_VBG a_DT foreign_JJ car_NN does_VBZ n't_RB really_RB scream_VB "_`` solidarity_NN "_`` to_IN those_DT struggling_VBG to_TO survive_VB ._. 
 Most_JJS of_IN the_DT funny_JJ looks_NNS you_PRP got_VBD were_VBD less_JJR about_IN your_PRP$ color_NN than_IN about_IN your_PRP$ ride_NN ._. 
 You_PRP think_VBP I_PRP 'm_VBP kidding_VBG ,_, but_CC I_PRP could_MD n't_RB be_VB more_RBR serious_JJ --_: that_IN Honda_NNP is_VBZ a_DT visceral_JJ reminder_NN for_IN people_NNS of_IN how_WRB the_DT American_JJ consumer_NN has_VBZ left_VBN Detroit_NNP in_IN the_DT dust_NN ._. 
 
-2_CD ._. Detroit_NNP (_( proper_JJ )_) has_VBZ been_VBN dying_VBG for_IN a_DT long_JJ time_NN --_: before_IN the_DT 1968_CD riots_NNS ,_, even_RB ._. 
+2_CD ._. Detroit_NNP (_-LRB- proper_JJ )_-RRB- has_VBZ been_VBN dying_VBG for_IN a_DT long_JJ time_NN --_: before_IN the_DT 1968_CD riots_NNS ,_, even_RB ._. 
 It_PRP s_VBZ going_VBG to_TO take_VB some_DT pioneering_JJ individuals_NNS to_TO start_VB creating_VBG those_DT pockets_NNS of_IN innovation_NN ,_, creativity_NN ,_, and_CC vision_NN ._. 
 But_CC it_PRP s_VBZ not_RB going_VBG to_TO happen_VB with_IN the_DT investment_NN of_IN $100_NN into_IN a_DT single_JJ house_NN ._. 
-Someone_NN will_MD need_VB to_TO begin_VB by_IN creating_VBG an_DT urban_JJ "_'' oasis_NN "_'' that_IN mitigates_VBZ some_DT of_IN the_DT fears_NNS that_IN you_PRP had_VBD while_IN driving_VBG through_IN the_DT city_NN --_: where_WRB to_TO buy_VB groceries_NNS ,_, a_DT place_NN where_WRB you_PRP can_MD feel_VB safe_JJ on_IN your_PRP$ own_JJ front_JJ porch_NN ,_, the_DT freedom_NN to_TO sleep_VB soundly_RB without_IN worrying_VBG about_IN your_PRP$ copper_NN wiring_NN ._. 
+Someone_NN will_MD need_VB to_TO begin_VB by_IN creating_VBG an_DT urban_JJ "_`` oasis_NN "_`` that_IN mitigates_VBZ some_DT of_IN the_DT fears_NNS that_IN you_PRP had_VBD while_IN driving_VBG through_IN the_DT city_NN --_: where_WRB to_TO buy_VB groceries_NNS ,_, a_DT place_NN where_WRB you_PRP can_MD feel_VB safe_JJ on_IN your_PRP$ own_JJ front_JJ porch_NN ,_, the_DT freedom_NN to_TO sleep_VB soundly_RB without_IN worrying_VBG about_IN your_PRP$ copper_NN wiring_NN ._. 
 
 3_CD ._. For_IN all_DT that_WDT is_VBZ wrong_JJ with_IN Detroit_NNP --_: and_CC that_DT 's_VBZ nearly_RB everything_NN --_: you_PRP 'd_MD be_VB astonished_JJ by_IN the_DT pride_NN that_IN Detroiters_NNPS have_VBP for_IN their_PRP$ city_NN ._. 
 They_PRP lack_VBP the_DT means_NNS to_TO build_VB her_PRP$ back_RB to_IN her_PRP$ former_JJ glory_NN ,_, but_CC she_PRP wo_MD n't_RB be_VB abandoned_VBN ._. 
@@ -171,8 +171,8 @@ Raggedy_NNP Anarchy_NNP 21_CD ._. Sep_NNP ,_, 2009_CD at_IN 7:21_NN pm_NN
 Thank_VB you_PRP for_IN the_DT opportunity_NN to_TO see_VB post_JJ -_: BushCo_NNP era_NN Detroit_NNP through_IN the_DT prism_NN of_IN your_PRP$ vision_NN ._. 
 
 I_PRP 've_VBP never_RB been_VBN there_RB ,_, but_CC ever_RB since_IN that_DT mad_JJ ,_, possessed_JJ American_JJ History_NN Professor_NNP I_PRP had_VBD ,_, I_PRP 've_VBP been_VBN haunted_VBN by_IN Detroit_NNP ._. 
-No_UH ,_, even_RB before_IN that_DT --_: The_DT Dollmaker_NNP has_VBZ often_RB been_VBN called_VBN '_POS America_NNP 's_POS least_RBS pretentious_JJ masterpiece_NN '_'' ._. 
-(_( Joyce_NNP Carol_NNP Oates_NNP in_IN the_DT NYTBR_NNP )_) 
+No_UH ,_, even_RB before_IN that_DT --_: The_DT Dollmaker_NNP has_VBZ often_RB been_VBN called_VBN '_POS America_NNP 's_POS least_RBS pretentious_JJ masterpiece_NN '_`` ._. 
+(_-LRB- Joyce_NNP Carol_NNP Oates_NNP in_IN the_DT NYTBR_NNP )_-RRB- 
 When_WRB folks_NNS like_IN Gertie_NNP Nevels_NNP ,_, and_CC Levon_NNP Helm_NNP and_CC John_NNP Hiatt_NNP and_CC my_PRP$ favorite_NN ,_, John_NNP Henry_NNP ,_, left_VBD the_DT mountains_NNS to_TO go_VB wrestle_VB with_IN the_DT Industrial_JJ leviathan_NN in_IN Detroit_NNP ,_, they_PRP were_VBD in_IN it_PRP to_IN the_DT death_NN ._. 
 Detroit_NNP wo_MD n't_RB be_VB the_DT death_NN of_IN the_DT courage_NN of_IN those_DT early_JJ Detroit_NNP pioneers_NNS ;_: it_PRP looks_VBZ like_IN Nature_NN will_MD prevail_VB after_IN all_DT ._. 
 Everybody_NN wins_NNS ._. 
@@ -190,25 +190,25 @@ This_DT is_VBZ the_DT final_JJ phase_NN ,_, the_DT crowning_JJ glory_NN of_IN Am
 Does_VBZ this_DT show_VB our_PRP$ system_NN 's_POS superiority_NN over_IN the_DT commies_NNS in_IN China_NNP ?_. 
 The_DT old_JJ Soviet_NNP Guard_NNP ?_. 
 Europe_NNP 's_POS follies_NNS ?_. 
-Have_VBP we_PRP really_RB built_VBD a_DT "_'' Great_JJ Society_NN "_'' or_CC is_VBZ that_DT all_DT propaganda_NN --_: Bull_NN Shiite_NN to_TO hush_VB free_JJ thought_NN ,_, eyes_NNS to_IN the_DT flag_NN ,_, while_IN our_PRP$ pockets_NNS and_CC resources_NNS were_VBD raided_VBN by_IN shysters_NNS ,_, spin_JJ -_: meisters_NNS ,_, schmucks_NNS and_CC banksters_NNS ?_. 
+Have_VBP we_PRP really_RB built_VBD a_DT "_`` Great_JJ Society_NN "_`` or_CC is_VBZ that_DT all_DT propaganda_NN --_: Bull_NN Shiite_NN to_TO hush_VB free_JJ thought_NN ,_, eyes_NNS to_IN the_DT flag_NN ,_, while_IN our_PRP$ pockets_NNS and_CC resources_NNS were_VBD raided_VBN by_IN shysters_NNS ,_, spin_JJ -_: meisters_NNS ,_, schmucks_NNS and_CC banksters_NNS ?_. 
 Did_VBD we_PRP build_VB sane_JJ ,_, sustainable_JJ ,_, survival_NN shelter_NN homes_NNS ?_. 
 Do_VBP we_PRP still_RB have_VB fertile_JJ backyard_NN gardens_NNS ,_, filled_VBN with_IN the_DT composting_NN of_IN the_DT age_NN ?_. 
 Can_MD any_DT of_IN what_WP we_PRP built_VBD be_VB recovered_VBN ,_, restored_VBN ,_, renovated_VBN ,_, into_IN useful_JJ shelter_NN ?_. 
 Did_VBD the_DT tools_NNS of_IN production_NN really_RB get_VB sold_VBN ,_, to_IN the_DT shareholders_NNS benefit_NN ,_, leaving_VBG the_DT worker_NN without_IN means_NNS to_TO defend_VB himself_PRP ?_. 
-Have_VBP the_DT great_JJ fortunes_NNS earned_VBD in_IN trust_NN as_IN "_'' American_NNP "_'' for_IN American_JJ investment_NN here_RB in_IN America_NNP ,_, really_RB migrated_VBN to_IN the_DT Beijing_NNP ,_, Shanghai_NNP ,_, and_CC Hang_NNP -_: Seng_NNP markets_NNS ,_, converted_VBN to_TO safer_JJR "_'' Yuan_FW "_'' and_CC invested_VBN in_IN China_NNP 's_POS wealth_NN ?_. 
+Have_VBP the_DT great_JJ fortunes_NNS earned_VBD in_IN trust_NN as_IN "_`` American_NNP "_`` for_IN American_JJ investment_NN here_RB in_IN America_NNP ,_, really_RB migrated_VBN to_IN the_DT Beijing_NNP ,_, Shanghai_NNP ,_, and_CC Hang_NNP -_: Seng_NNP markets_NNS ,_, converted_VBN to_TO safer_JJR "_`` Yuan_FW "_`` and_CC invested_VBN in_IN China_NNP 's_POS wealth_NN ?_. 
 Did_VBD this_DT really_RB happen_VB to_IN American_JJ patriots_NNS ?_. 
 Do_VBP you_PRP still_RB love_VB democracy_NN ,_, corporatism_NN ,_, capitalism_NN and_CC all_DT it_PRP has_VBZ done_VBN for_IN you_PRP ?_. 
-Are_VBP you_PRP really_RB "_'' Free_JJ "_'' ?_. 
-Is_VBZ Conscription_NN just_RB around_IN the_DT corner_NN ,_, to_TO serve_VB Halliburton_NN (_( Dubai_NNP )_) in_IN attaining_VBG pipeline_NN clearance_NN through_IN Afghanistan_NNP ,_, to_IN Turkmenistan_NNP and_CC the_DT oil_NN field_NN there_RB ?_. 
-Are_VBP American_JJ lives_NNS well_RB spent_VBD in_IN thei_DT "_'' Middle_NNP East_NNP "_'' endevor_NN ?_. 
-Are_VBP we_PRP just_RB mercenaries_NNS for_IN big_JJ oil_NN ,_, not_RB liberators_NNS spreading_VBG "_'' Freedom_NN "_'' ?_. 
+Are_VBP you_PRP really_RB "_`` Free_JJ "_`` ?_. 
+Is_VBZ Conscription_NN just_RB around_IN the_DT corner_NN ,_, to_TO serve_VB Halliburton_NN (_-LRB- Dubai_NNP )_-RRB- in_IN attaining_VBG pipeline_NN clearance_NN through_IN Afghanistan_NNP ,_, to_IN Turkmenistan_NNP and_CC the_DT oil_NN field_NN there_RB ?_. 
+Are_VBP American_JJ lives_NNS well_RB spent_VBD in_IN thei_DT "_`` Middle_NNP East_NNP "_`` endevor_NN ?_. 
+Are_VBP we_PRP just_RB mercenaries_NNS for_IN big_JJ oil_NN ,_, not_RB liberators_NNS spreading_VBG "_`` Freedom_NN "_`` ?_. 
 Is_VBZ this_DT really_RB just_RB flag_NN -_: waving_VBG propaganda_NN ?_. 
 What_WP ,_, exactly_RB did_VBD we_PRP win_VB in_IN Iraq_NNP ?_. 
 Cheaper_JJR Oil_NN ?_. 
 I_PRP think_VBP not_RB !_. 
 Gratitude_NN of_IN a_DT Free_JJ nation_NN ?_. 
 I_PRP think_VBP not_RB !_. 
-Why_WRB has_VBZ the_DT "_'' Rust_NNP Belt_NNP "_'' come_VBN into_IN being_VBG ?_. 
+Why_WRB has_VBZ the_DT "_`` Rust_NNP Belt_NNP "_`` come_VBN into_IN being_VBG ?_. 
 What_WP were_VBD we_PRP doing_VBG ?_. 
 Where_WRB did_VBD the_DT great_JJ society_NN for_IN all_DT ,_, the_DT one_CD we_PRP were_VBD told_VBN we_PRP were_VBD building_VBG go_VB ?_. 
 Japan_NNP ?_. 
@@ -236,9 +236,9 @@ Just_RB so_IN we_PRP 're_VBP clear_JJ on_IN that_DT ._.
 I_PRP do_VBP n't_RB think_VB you_PRP present_VB a_DT fully_RB -_: informed_JJ argument_NN on_IN the_DT causes_NNS of_IN urban_JJ decay_NN ,_, but_CC I_PRP do_VBP n't_RB disagree_VB with_IN you_PRP ._. 
 
 I_PRP 'm_VBP not_RB particularly_RB interested_JJ in_IN whose_WP$ fault_NN this_DT mess_NN is_VBZ ;_: rather_RB ,_, I_PRP choose_VBP to_TO focus_VB on_IN how_WRB we_PRP 're_VBP going_VBG to_TO clean_VB it_PRP up_RP ._. 
-That_DT 's_VBZ where_WRB the_DT green_JJ movement_NN comes_VBZ in_RP ,_, and_CC when_WRB I_PRP say_VBP "_'' green_JJ "_'' I_PRP 'm_VBP talking_VBG plants_NNS not_RB politics_NNS ._. 
+That_DT 's_VBZ where_WRB the_DT green_JJ movement_NN comes_VBZ in_RP ,_, and_CC when_WRB I_PRP say_VBP "_`` green_JJ "_`` I_PRP 'm_VBP talking_VBG plants_NNS not_RB politics_NNS ._. 
 
-If_IN you_PRP 've_VBP got_VBN some_DT fancy_JJ new_JJ technology_NN at_IN Boeing_NNP that_WDT can_MD do_VB more_RBR for_IN people_NNS 's_POS health_NN and_CC happiness_NN (_( and_CC for_IN less_JJR cost_NN )_) than_IN a_DT victory_NN garden_NN can_MD do_VB ,_, please_RB let_VBP me_PRP know_VB ._. 
+If_IN you_PRP 've_VBP got_VBN some_DT fancy_JJ new_JJ technology_NN at_IN Boeing_NNP that_WDT can_MD do_VB more_RBR for_IN people_NNS 's_POS health_NN and_CC happiness_NN (_-LRB- and_CC for_IN less_JJR cost_NN )_-RRB- than_IN a_DT victory_NN garden_NN can_MD do_VB ,_, please_RB let_VBP me_PRP know_VB ._. 
 
 Raggedy_NNP Anarchy_NNP 24_CD ._. Oct_NNP ,_, 2009_CD at_IN 6:17_NN pm_NN 
 Last_JJ I_PRP checked_VBD ,_, greed_NN ,_, sloth_NN ,_, hubris_NN and_CC waste_NN were_VBD all_DT pretty_RB universally_RB human_JJ traits_NNS ,_, and_CC I_PRP see_VBP no_DT halos_NNS around_IN either_DT Libertarians_NNPS ,_, Dems_NNPS or_CC even_RB anarchically_RB green-at-heart_JJ ._. 
@@ -250,7 +250,7 @@ Otters_NNS in_IN post-Valdez_JJ Alaska_NNP are_VBP clawing_VBG their_PRP$ own_JJ
 
 The_DT patient_NN is_VBZ earth_NN ,_, and_CC it_PRP 's_VBZ not_RB getting_VBG better_JJR ._. 
 You_PRP want_VBP to_TO yell_VB at_IN which_WDT insurance_NN company_NN fucked_VBD up_RP ,_, or_CC change_VB a_DT bedpan_NN ,_, so_RB to_TO speak_VB ?_. 
-During_IN times_NNS of_IN crisis_NN (_( which_WDT this_DT is_VBZ )_) ,_, the_DT ones_PRP who_WP will_MD create_VB positive_JJ change_NN are_VBP those_DT who_WP accept_VBP the_DT hand_NN they_PRP are_VBP dealt_VBN and_CC act_VBP ._. 
+During_IN times_NNS of_IN crisis_NN (_-LRB- which_WDT this_DT is_VBZ )_-RRB- ,_, the_DT ones_PRP who_WP will_MD create_VB positive_JJ change_NN are_VBP those_DT who_WP accept_VBP the_DT hand_NN they_PRP are_VBP dealt_VBN and_CC act_VBP ._. 
 The_DT ones_NNS who_WP are_VBP educated_JJ and_CC informed_JJ and_CC attached_JJ to_IN delegating_VBG moral_JJ judgements_NNS will_MD be_VB perfectly_RB equipped_JJ to_TO deal_VB with_IN a_DT world_NN that_IN no_RB longer_RB exists_VBZ ._. 
 Just_RB ask_VBP the_DT Palestinians_NNPS who_WP left_VBD after_IN the_DT first_JJ war_NN to_TO cry_VB over_IN the_DT past_NN ._. 
 Or_CC ask_VBP my_PRP$ Paiute_JJ grandfather_NN ._. 
@@ -260,7 +260,7 @@ Or_CC ask_VBP my_PRP$ Paiute_JJ grandfather_NN ._.
 Nobody_NN gets_VBZ laughed_VBN at_IN alone_RB in_IN my_PRP$ presence_NN ._. 
 
 Raggedy_NNP Anarchy_NNP 24_CD ._. Oct_NNP ,_, 2009_CD at_IN 6:21_NN pm_NN 
-"_'' ..._. when_WRB I_PRP say_VBP “_NN green_JJ ”_NN I_PRP ’_NN m_NN talking_VBG plants_NNS not_RB politics_NNS ._. "_'' 
+"_`` ..._. when_WRB I_PRP say_VBP “_NN green_JJ ”_NN I_PRP ’_NN m_NN talking_VBG plants_NNS not_RB politics_NNS ._. "_`` 
 
 Wall-_NNP E._NN 
 
@@ -268,7 +268,7 @@ Eric_NNP 01_CD ._. Nov_NNP ,_, 2009_CD at_IN 10:33_NN pm_NN
 There_EX is_VBZ now_RB a_DT house_NN for_IN $10_NN listed_VBN on_IN realtor_NN ._. com_NN 
 
 Helena_NNP 19_CD ._. Nov_NNP ,_, 2009_CD at_IN 1:06_NN pm_NN 
-You_PRP told_VBD me_PRP about_IN this_DT ,_, but_CC it_PRP has_VBZ to_TO be_VB seen_VBN to_TO be_VB believed_VBN (_( not_RB that_IN I_PRP did_VBD n't_RB believe_VB you_PRP !_. )_) ._. 
+You_PRP told_VBD me_PRP about_IN this_DT ,_, but_CC it_PRP has_VBZ to_TO be_VB seen_VBN to_TO be_VB believed_VBN (_-LRB- not_RB that_IN I_PRP did_VBD n't_RB believe_VB you_PRP !_. )_-RRB- ._. 
 The_DT richest_JJS country_NN in_IN the_DT world_NN ..._. ?_. !_. 
 
 Fred_NNP E._NN 18_CD ._. Jan_NNP ,_, 2010_CD at_IN 8:09_NN pm_NN 
@@ -278,9 +278,9 @@ Parker_NNP 15_CD ._. May_NNP ,_, 2010_CD at_IN 6:56_NN am_VBP
 I_PRP find_VBP this_DT topic_NN fascinating_JJ ._. 
 I_PRP was_VBD born_VBN in_IN a_DT suburb_NN of_IN Detroit_NNP and_CC most_JJS of_IN family_NN still_RB lives_VBZ there_RB ._. 
 I_PRP will_MD be_VB going_VBG back_RB to_TO visit_VB in_IN June_NNP ._. 
-I_PRP plan_VBP to_TO take_VB a_DT (_( Daytime_JJ )_) tour_NN of_IN these_DT decaying_JJ areas_NNS especially_RB the_DT old_JJ factories_NNS ._. 
+I_PRP plan_VBP to_TO take_VB a_DT (_-LRB- Daytime_JJ )_-RRB- tour_NN of_IN these_DT decaying_JJ areas_NNS especially_RB the_DT old_JJ factories_NNS ._. 
 I_PRP have_VBP the_DT urban_JJ explorer_NN fascination_NN ._. 
-However_RB ,_, the_DT main_JJ reason_NN I_PRP wanted_VBD to_TO post_VB was_VBD to_TO say_VB to_IN "_'' Lumpy_NNP "_'' ,_, "_'' the_DT democrats_NNPS have_VBP the_DT unmidas_JJ touch_NN "_'' ,_, LMAO_NNP ,_, that_WDT is_VBZ classic_JJ ._. 
+However_RB ,_, the_DT main_JJ reason_NN I_PRP wanted_VBD to_TO post_VB was_VBD to_TO say_VB to_IN "_`` Lumpy_NNP "_`` ,_, "_`` the_DT democrats_NNPS have_VBP the_DT unmidas_JJ touch_NN "_`` ,_, LMAO_NNP ,_, that_WDT is_VBZ classic_JJ ._. 
 and_CC I_PRP must_MD agree_VB with_IN Lumpy_NNP ._. 
 Freaking_JJ hillarious_JJ and_CC so_RB true_JJ ._. 
 Thanks_NNS Lump_NNP -_: man_NN ._. 
@@ -291,5 +291,5 @@ Brad_NNP 14_CD ._. Oct_NNP ,_, 2010_CD at_IN 7:02_NN pm_NN
 I_PRP ,_, too_RB checked_VBD out_RP a_DT few_JJ listings_NNS for_IN under_IN $1,000_NN and_CC was_VBD absolutely_RB shocked_JJ at_IN the_DT property_NN taxes_NNS ._. 
 A_DT $1,000_NN house_NN ,_, which_WDT could_MD be_VB fixed_VBN up_RP into_IN maybe_RB a_DT $_$ 30_CD -_: 40,000_CD house_NN comes_VBZ with_IN a_DT tax_NN bill_NN of_IN $_$ 4_CD -_: 6_CD K_NNP per_IN year_NN !_. 
 The_DT taxes_NNS on_IN my_PRP$ $140K_NN house_NN in_IN an_DT urban_JJ area_NN of_IN Mississippi_NNP are_VBP only_RB $_$ 1500_CD /_NN year_NN ._. 
-Additionally_RB ,_, even_RB if_IN you_PRP paid_VBD cash_NN for_IN the_DT house_NN ,_, you_PRP 'd_MD probably_RB want_VB to_TO carry_VB some_DT homeowner_NN 's_POS insurance_NN with_IN all_PDT the_DT inherent_JJ risks_NNS to_IN the_DT property_NN (_( arson_NN ,_, vandalism_NN )_) ,_, and_CC I_PRP 'm_VBP sure_JJ it_PRP 's_VBZ sky_NN -_: high_JJ ,_, given_VBN those_DT risks_NNS ._. 
+Additionally_RB ,_, even_RB if_IN you_PRP paid_VBD cash_NN for_IN the_DT house_NN ,_, you_PRP 'd_MD probably_RB want_VB to_TO carry_VB some_DT homeowner_NN 's_POS insurance_NN with_IN all_PDT the_DT inherent_JJ risks_NNS to_IN the_DT property_NN (_-LRB- arson_NN ,_, vandalism_NN )_-RRB- ,_, and_CC I_PRP 'm_VBP sure_JJ it_PRP 's_VBZ sky_NN -_: high_JJ ,_, given_VBN those_DT risks_NNS ._. 
 

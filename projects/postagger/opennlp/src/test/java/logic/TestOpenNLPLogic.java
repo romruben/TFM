@@ -24,8 +24,8 @@ public class TestOpenNLPLogic {
         Instant before = Instant.now();
         OpenNLPPostTagger openNLPPostTagger = new OpenNLPPostTagger();
 
-        String[] original_tagged_corpus = getOriginalCorpusTagged(FileHandler.readFileContent(ORIGINAL_CORPUS_FILE).split(" "));
-        String[] processed_tagged_corpus = openNLPPostTagger.tag(FileHandler.readFileContent(PROCESSED_CORPUS_FILE).split(" "),
+        String[] original_tagged_corpus = getOriginalCorpusTagged(FileHandler.readFileContent(ORIGINAL_CORPUS_FILE).replace("\n", "").split(" "));
+        String[] processed_tagged_corpus = openNLPPostTagger.tag(FileHandler.readFileContent(PROCESSED_CORPUS_FILE).replace("\n", "").split(" "),
                 model);
 
         int expected = original_tagged_corpus.length;
