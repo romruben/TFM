@@ -1,3 +1,5 @@
+package test;
+
 import logic.TestOpenNLPLogic;
 import postagger.OpenNLPPostTagger;
 import utils.FileHandler;
@@ -35,5 +37,7 @@ public class TestOpenNLP {
     private static void testOpenNLPwithPOSMaxent() {
         testOpenNLPLogic.evaluateCorpusWithModel(MAXENT_MODEL);
     }
+
+
 
 }
