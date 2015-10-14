@@ -42,7 +42,9 @@ def test_langid(testdir, languages, filesByLang):
 
 
 def get_total_well_detected_langs(filesToTest, languages_id, reference_files):
-    return sum(1 for file in filesToTest if languages_id.get(langid.classify(open(TEST_FILES_DIR + file, 'r').read())[0]) == reference_files.get(file))
+    return sum(1 for file in filesToTest if
+               languages_id.get(langid.classify(open(TEST_FILES_DIR + file, 'r').read())[0]) == reference_files.get(
+                   file))
 
 
 def get_test_files(filterfiles):

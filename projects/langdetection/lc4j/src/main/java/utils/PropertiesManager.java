@@ -14,7 +14,7 @@ public class PropertiesManager {
     private static String PROFILE_DIR = "/var/tmp/tfm/language_detection/frameworks/lc4j/models/";
     private static String TEST_FILES_DIR = "/var/tmp/tfm/language_detection/frameworks/lc4j/testfiles/";
     private static String LANGUAGES_TO_TEST = "English,Spanish";
-    private static String FILES_BY_LANGUAGE = "src/test/resources/filesByLanguage.properties";
+    private static final String FILES_BY_LANGUAGE = "src/test/resources/filesByLanguage.properties";
 
     private static Properties filesByLanguagePropertiesProvider;
 

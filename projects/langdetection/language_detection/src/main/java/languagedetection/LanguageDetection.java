@@ -25,9 +25,8 @@ public class LanguageDetection {
             detector.append(text);
             return detector.detect();
         } catch (LangDetectException e) {
-            e.printStackTrace();
+            return "None";
         }
-        return "None";
     }
 
     public ArrayList<Language> detectLangs(String text) throws LangDetectException {

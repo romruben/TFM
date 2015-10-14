@@ -28,8 +28,4 @@ public class LangDetection {
         return languageCategorization.findLanguage(new BufferedReader(new StringReader(text))).get(0).toString();
     }
 
-//    public static void main(String[] args) {
-//        lc4j.LangDectection langDectection = new lc4j.LangDectection();
-//        langDectection.detect("hola como estas");
-//    }
 }
