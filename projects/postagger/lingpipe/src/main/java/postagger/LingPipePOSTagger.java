@@ -6,10 +6,11 @@ import com.aliasi.tag.Tagging;
 import com.aliasi.util.Streams;
 import utils.FileHandler;
 
-import java.io.*;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Stream;
 
 /**
  * Created by ruben on 20/07/15.
@@ -17,14 +18,27 @@ import java.util.stream.Stream;
 public class LingPipePOSTagger {
 
     private static final String LINGPIPE_BROWN_MODEL = "src/main/resources/pos-en-general-brown.HiddenMarkovModel";
-    private static final String DETROIT_PROCESSED_CORPUS   = "src/main/resources/detroit_processed.txt";
+    private static final String DETROIT_PROCESSED_CORPUS = "src/main/resources/detroit_processed.txt";
+
+    private final HmmDecoder decoder;
+
+    public LingPipePOSTagger() {
+        HiddenMarkovModel hmm = getModel();
+        decoder = new HmmDecoder(hmm);
+    }
 
     public Tagging<String> tag() {
-
-        HiddenMarkovModel hmm = getModel();
-        HmmDecoder decoder = new HmmDecoder(hmm);
         List<String> tokenList = Arrays.asList(FileHandler.readFileContent(DETROIT_PROCESSED_CORPUS)
-                .replace("\n","")
+                .replace("\n", "")
+                .split(" "));
+
+        return decoder.tag(tokenList);
+    }
+
+    public Tagging<String> tag(String file) {
+
+        List<String> tokenList = Arrays.asList(FileHandler.readFileContent(file)
+                .replace("\n", "")
                 .split(" "));
 
         return decoder.tag(tokenList);
@@ -37,8 +51,6 @@ public class LingPipePOSTagger {
             HiddenMarkovModel hiddenMarkovModel = (HiddenMarkovModel) objectInputStream.readObject();
             Streams.closeQuietly(objIn);
             return hiddenMarkovModel;
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         } catch (ClassNotFoundException e) {

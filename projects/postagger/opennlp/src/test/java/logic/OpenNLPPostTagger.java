@@ -13,9 +13,14 @@ import java.io.InputStream;
  */
 public class OpenNLPPostTagger {
 
+    POSTaggerME tagger;
 
-    public String[] tag(String[] corpus, String modelPath) {
-        POSTaggerME tagger = getPOTagger(modelPath);
+    public OpenNLPPostTagger(String modelPath) {
+        tagger = getPOTagger(modelPath);
+
+    }
+
+    public String[] tag(String[] corpus) {
         return tagger.tag(corpus);
     }
 

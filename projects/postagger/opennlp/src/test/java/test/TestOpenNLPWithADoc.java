@@ -11,7 +11,7 @@ import java.util.HashMap;
  */
 public class TestOpenNLPWithADoc {
 
-    String file = "/Users/ruben/Desktop/postaggers.txt";
+    private static final String file = "/Users/ruben/Desktop/postaggers.txt";
     private static final String MAXENT_MODEL = "src/main/resources/en-pos-maxent.bin";
     private static final String PERCEPTRON_MODEL = "src/main/resources/en-pos-perceptron.bin";
 
@@ -24,18 +24,18 @@ public class TestOpenNLPWithADoc {
         testOpenNLPwithPOSPerceptron();
     }
 
-    //total: 2020000 detected: 2020000 in PT1H9M23.223S
     private static void testOpenNLPwithPOSPerceptron() {
         Instant before = Instant.now();
-        HashMap<String, Long> results = testOpenNLPLogic.evaluateCorpusWithModel(PERCEPTRON_MODEL, "/var/tmp/docs/txt");
-        System.out.println("total: " + results.get("total") + " detected: " + results.get("detected") + " in " + Duration.between(before, Instant.now()));
+        String results = testOpenNLPLogic.evaluateCorpusWithModelWithAFile(PERCEPTRON_MODEL, file);
+        System.out.println("testOpenNLPwithPOSPerceptron:  in " + Duration.between(before, Instant.now()));
+        System.out.println(results);
     }
 
-    //
     private static void testOpenNLPwithPOSMaxent() {
         Instant before = Instant.now();
-        HashMap<String, Long> results = testOpenNLPLogic.evaluateCorpusWithModel(MAXENT_MODEL, "/var/tmp/docs/txt");
-        System.out.println("total: " + results.get("total") + " detected: " + results.get("detected") + " in " + Duration.between(before, Instant.now()));
+        String results = testOpenNLPLogic.evaluateCorpusWithModelWithAFile(MAXENT_MODEL, file);
+        System.out.println("testOpenNLPwithPOSMaxent:  in " + Duration.between(before, Instant.now()));
+        System.out.println(results);
     }
 
 }

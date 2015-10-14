@@ -10,6 +10,7 @@ import java.time.Instant;
 import java.util.Arrays;
 import java.util.List;
 
+
 /**
  * Created by ruben on 20/07/15.
  */
@@ -23,7 +24,6 @@ public class LingPipeTests {
 
     private static void evaluateLingPipe() {
         Instant before = Instant.now();
-
 
         Tagging<String> processed_tagged_corpus = (new LingPipePOSTagger()).tag();
         List<String> original_tagged_corpus = Arrays.asList(FileHandler.readFileContent(DETROIT_ORIGINAL_CORPUS).replace("\n", "").split(" "));
