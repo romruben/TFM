@@ -8,7 +8,7 @@ import urllib2
 
 
 HOST = 'http://localhost:9200'
-INDEX = 'test'
+INDEX = '5septiembre'
 TYPE = 'attachment'
 TMP_FILE_NAME = 'tmp.json'
 
