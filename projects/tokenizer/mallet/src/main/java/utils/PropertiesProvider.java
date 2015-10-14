@@ -1,13 +1,6 @@
 package utils;
 
 
-
-        import cc.mallet.util.CharSequenceLexer;
-
-        import java.io.FileInputStream;
-        import java.io.IOException;
-        import java.util.*;
-
 /**
  * Created by ruben on 28/06/15.
  */

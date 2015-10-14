@@ -22,7 +22,7 @@ public class PropertiesProvider {
         return mvnArg != null ? mvnArg : byDefault;
     }
 
-    public String getTestFile(){
+    public String getTestFile() {
         return TEST_FILE;
     }
 }
