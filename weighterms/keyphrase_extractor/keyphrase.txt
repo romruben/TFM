@@ -1,0 +1,6 @@
+PIL Print 0.2a1/96-10-04 -- print image files
+Usage: pilprint files...
+Options:
+  -c            colour printer (default is monochrome)
+  -p            print via lpr (default is stdout)
+  -P <printer>  same as -p but use given printer
